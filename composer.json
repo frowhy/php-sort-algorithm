@@ -1,0 +1,18 @@
+{
+  "name": "frowhy/algorithm",
+  "description": "八大排八大排序算法",
+  "type": "library",
+  "license": "apache",
+  "authors": [
+    {
+      "name": "frowhy",
+      "email": "frowhy@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "autoload": {
+    "psr-4": {
+      "Frowhy\\Algorithm\\": "src/"
+    }
+  }
+}
