@@ -1,6 +1,6 @@
 {
   "name": "frowhy/algorithm",
-  "description": "八大排八大排序算法",
+  "description": "八大排序算法",
   "type": "library",
   "license": "apache",
   "authors": [
