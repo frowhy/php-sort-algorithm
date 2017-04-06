@@ -30,9 +30,7 @@
  *________%%_______%%%%________%%%%______________
  */
 
-
 namespace Frowhy\Algorithm;
-
 
 class Algorithm
 {
